@@ -11,4 +11,5 @@ This project involves a comprehensive data analysis on customer segmentation and
 #### * Bivariate Clustering: Clustered based on annual income and spending score.
 #### * Multivariate Clustering: Clustered using all key variables after scaling and encoding categorical data.
 5. Cluster Evaluation: Analyzed the characteristics and gender distribution of each cluster to provide actionable insights.
-The final results offer a clear segmentation of customers, which can be used to tailor marketing campaigns effectively. The processed dataset with cluster labels was saved for further analysis.
+
+#### The final results offer a clear segmentation of customers, which can be used to tailor marketing campaigns effectively. The processed dataset with cluster labels was saved for further analysis.
